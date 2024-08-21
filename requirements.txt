@@ -1,0 +1,10 @@
+langchain
+llama_index
+numpy
+pandas
+PyMuPDF
+torch
+sentence-transformers
+transformers
+scikit-learn
+pillow
