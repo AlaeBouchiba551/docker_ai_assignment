@@ -9,8 +9,8 @@ Goals
 -Transformers (for optional text generation)
 -CLIP (for embeddings)
 -PyTorch
--Installation
--Install required packages:
+
+
 
 
 
